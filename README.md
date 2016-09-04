@@ -1,2 +1,3 @@
 # hello-world
-Test-Repository
+Hi,
+Ich bin Sebi und das ist meine GitHub-Testprojekt!
